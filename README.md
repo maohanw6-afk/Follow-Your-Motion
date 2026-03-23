@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Follow-Your-Motion
-=======
 <div align="center">
 <h2><font color="red"> Follow-Your-Motion </font></center> <br> <center>Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning</h2>
 
@@ -275,4 +272,3 @@ This repository borrows heavily from [DiffSynth-Studio](https://github.com/model
 ## 🧿 Maintenance
 
 This is the codebase for our research work. If you have any questions or ideas to discuss, feel free to open an issue.
->>>>>>> 840ca59 (Initial commit)
